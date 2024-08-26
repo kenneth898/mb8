@@ -10,33 +10,33 @@
 					<div class="menu d-flex justify-content-around w-100">
 
 						<div class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/" target="_blank">
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/" target="_blank">
 								<img class="nav-icon img1" src="/image/home-btn.webp" alt="Home"></a>
 						</div>
 
 						<div class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up
 " target="_blank">
 								<img class="nav-icon img2" src="/image/history.webp" alt="History"></a>
 						</div>
 
 						<div class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up"
 								target="_blank">
 								<img class="nav-icon img3" src="/image/promo.webp" alt="Promo"></a>
 						</div>
 						<div class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up"
 								target="_blank">
 								<img class="nav-icon img4" src="/image/lucky-draw.webp" alt="lucky-draw"></a>
 						</div>
 						<div class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up"
 								target="_blank">
 								<img class="nav-icon img4" src="/image/live-chat.webp" alt="live-chat"></a>
 						</div>
 						<div class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up"
 								target="_blank">
 								<img class="nav-icon img4" src="/image/setting.webp" alt="setting"></a>
 						</div>

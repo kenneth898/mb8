@@ -2,19 +2,19 @@
 	<div style="height: 100%;" class="container-fluid">
 		<div style="padding-top:10px ;" class="row ">
 			<div class="">
-				<a href="//www.atascasinobet.com/sign-up" rel="nofollow">
+				<a href="//www.atascasinobet1.com/sign-up" rel="nofollow">
 					<img width="100%" src="/image/daily_top_up_bonus.webp" alt="daily_top_up_bonus.webp">
 				</a>
 			</div>
 			<div class="col-6">
-				<a href="https://www.atascasinobet.com/atas-login" rel="nofollow">
+				<a href="https://www.atascasinobet1.com/atas-login" rel="nofollow">
 					<div class="text">
 						<h3>{{ $t('button.login') }}</h3>
 					</div>
 				</a>
 			</div>
 			<div class="col-6">
-				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow">
+				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
 					<div class="text">
 						<h3>{{ $t('button.register') }}</h3>
 					</div>
@@ -31,26 +31,26 @@
 				<p style="color: #C0C0C0;"><b>RM50.00</b></p>
 			</div>
 			<div style="padding-top:10px ;" class="col-6">
-				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow">
+				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
 					<img style="padding-bottom: 5px;" width="100%" src="/image/deposit.gif" alt="deposit">
 				</a>
-				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow">
+				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
 					<img style="padding-bottom: 5px;" width="100%" src="/image/withdraw.gif" alt="withdraw">
 				</a>
-				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow">
+				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
 					<img style="padding-bottom: 5px;" width="100%" src="/image/refresh.gif" alt="refresh">
 				</a>
 			</div>
 
 			<div class="atas">
 				<!--RM88-->
-				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow">
+				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
 					<img width="100%" src="/image/Atas-Post-Banner-(Eng).webp" alt="Atas-Post-Banner-(Eng)">
 				</a>
 			</div>
 			<div class="atas">
 				<!--challenge-->
-				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow">
+				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
 					<img width="100%" src="/image/challenge.webp" alt="challenge">
 				</a>
 			</div>
