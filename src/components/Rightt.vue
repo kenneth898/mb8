@@ -2,19 +2,19 @@
 	<div style="height: 100%;" class="container-fluid">
 		<div style="padding-top:10px ;" class="row ">
 			<div class="">
-				<a href="//www.atascasinobet1.com/sign-up" rel="nofollow">
+				<a :href="link + 'sign-up'" rel="nofollow">
 					<img width="100%" src="/image/daily_top_up_bonus.webp" alt="daily_top_up_bonus.webp">
 				</a>
 			</div>
 			<div class="col-6">
-				<a href="https://www.atascasinobet1.com/atas-login" rel="nofollow">
+				<a :href="link + 'atas-login'" rel="nofollow">
 					<div class="text">
 						<h3>{{ $t('button.login') }}</h3>
 					</div>
 				</a>
 			</div>
 			<div class="col-6">
-				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+				<a :href="link + 'sign-up'" rel="nofollow">
 					<div class="text">
 						<h3>{{ $t('button.register') }}</h3>
 					</div>
@@ -31,26 +31,26 @@
 				<p style="color: #C0C0C0;"><b>RM50.00</b></p>
 			</div>
 			<div style="padding-top:10px ;" class="col-6">
-				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+				<a :href="link + 'sign-up'" rel="nofollow">
 					<img style="padding-bottom: 5px;" width="100%" src="/image/deposit.gif" alt="deposit">
 				</a>
-				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+				<a :href="link + 'sign-up'" rel="nofollow">
 					<img style="padding-bottom: 5px;" width="100%" src="/image/withdraw.gif" alt="withdraw">
 				</a>
-				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+				<a :href="link + 'sign-up'" rel="nofollow">
 					<img style="padding-bottom: 5px;" width="100%" src="/image/refresh.gif" alt="refresh">
 				</a>
 			</div>
 
 			<div class="atas">
 				<!--RM88-->
-				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+				<a :href="link + 'sign-up'" rel="nofollow">
 					<img width="100%" src="/image/Atas-Post-Banner-(Eng).webp" alt="Atas-Post-Banner-(Eng)">
 				</a>
 			</div>
 			<div class="atas">
 				<!--challenge-->
-				<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+				<a :href="link + 'sign-up'" rel="nofollow">
 					<img width="100%" src="/image/challenge.webp" alt="challenge">
 				</a>
 			</div>
@@ -67,8 +67,33 @@
 </template>
 
 <script>
+import axios from 'axios';
 export default {
 	name: 'Right',
+	data() {
+		return {
+			link: ""
+		}
+	},
+	methods: {
+		async calllink() {
+			try {
+				const response = await axios.get('https://seo.mobileapplab.online/api/atas?fields[0]=atascasinobet_com', {
+					headers: {
+						"Authorization": "Bearer " + "1c4db3188ab2e9a077928920d9cc8d3322d15f9751bc2054a5cb70008df79cf3e3a4dd005a75a1f2db40eb953292ee10ef699693e96e9d77a98439f438ee6a6e6805a8a955e992f082b9e6118a4345e1ed18438ff9789edf9ed1dd58af45ee6669a7519a1291746959ff45bc2054b7f408b5da5ea8cd04d588a2704b7e218021",
+					}
+				});
+				this.link = response.data.data.attributes.atascasinobet_com;
+
+				console.log(this.link);
+			} catch (error) {
+				console.error(error);
+			}
+		},
+	},
+	mounted() {
+		this.calllink();
+	}
 };
 </script>
 

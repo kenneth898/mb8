@@ -5,13 +5,13 @@
 
 
 				<div class="mobile">
-					<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+					<a :href="link + 'sign-up'" rel="nofollow">
 						<img width="100%" src="/image/daily_top_up_bonus.webp" alt="daily_top_up_bonus">
 					</a>
 				</div>
 				<div class="bg_img">
 					<div class="desktop">
-						<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+						<a :href="link + 'sign-up'" rel="nofollow">
 							<img width="100%" src="/image/atas_one_stop_platform.webp" alt="atas_one_stop_platform">
 						</a>
 					</div>
@@ -56,28 +56,28 @@
 
 						<!--button bg-->
 						<div style="padding-top: 10px;" class="btn_bg">
-							<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+							<a :href="link + 'sign-up'" rel="nofollow">
 								<img width="100%" src="/image/btn-bg.webp" alt="btn_bg">
 							</a>
 
 							<div style="position: absolute; bottom: 8px;" class="row">
 								<div class="col-6 btn_left">
-									<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+									<a :href="link + 'sign-up'" rel="nofollow">
 										<img width="95%" src="/image/share-btn.gif" alt="share">
 									</a>
 								</div>
 								<div class="col-6 btn_right">
-									<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+									<a :href="link + 'sign-up'" rel="nofollow">
 										<img width="95%" src="/image/downline.gif" alt="downline">
 									</a>
 								</div>
 								<div style="padding-top: 5px; padding-right: 3px;" class="col-6 btn_left">
-									<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+									<a :href="link + 'sign-up'" rel="nofollow">
 										<img width="94%" src="/image/copy.gif" alt="copy">
 									</a>
 								</div>
 								<div style="padding-top: 5px; " class="col-6 btn_right">
-									<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+									<a :href="link + 'sign-up'" rel="nofollow">
 										<img width="94%" src="/image/more.gif" alt="more">
 									</a>
 								</div>
@@ -85,7 +85,7 @@
 						</div>
 
 						<!--live now-->
-						<a href="https://www.atascasinobet1.com/sign-up" rel="nofollow">
+						<a :href="link + 'sign-up'" rel="nofollow">
 							<img width="100%" src="/image/live-now.webp" style="padding-top: 10px;" alt="live now">
 						</a>
 					</div>
@@ -102,6 +102,7 @@
 </template>
 
 <script>
+import axios from 'axios';
 export default {
 	name: 'Left',
 	data() {
@@ -109,13 +110,29 @@ export default {
 			tableData: this.generateInitialData(),
 			isDragging: false,
 			startX: 0,
-			scrollLeft: 0
+			scrollLeft: 0,
+			link: ""
 		};
 	},
 	mounted() {
 		this.startUpdatingData();
+		this.calllink();
 	},
 	methods: {
+		async calllink() {
+			try {
+				const response = await axios.get('https://seo.mobileapplab.online/api/atas?fields[0]=atascasinobet_com', {
+					headers: {
+						"Authorization": "Bearer " + "1c4db3188ab2e9a077928920d9cc8d3322d15f9751bc2054a5cb70008df79cf3e3a4dd005a75a1f2db40eb953292ee10ef699693e96e9d77a98439f438ee6a6e6805a8a955e992f082b9e6118a4345e1ed18438ff9789edf9ed1dd58af45ee6669a7519a1291746959ff45bc2054b7f408b5da5ea8cd04d588a2704b7e218021",
+					}
+				});
+				this.link = response.data.data.attributes.atascasinobet_com;
+
+				console.log(this.link);
+			} catch (error) {
+				console.error(error);
+			}
+		},
 		startDrag(e) {
 			this.isDragging = true;
 			this.startX = e.pageX - this.$refs.carousel.offsetLeft;

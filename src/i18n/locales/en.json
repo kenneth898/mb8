@@ -12,105 +12,71 @@
 	"menu": {
 		"play": "PLAY"
 	},
-	"content1": {
-		"1": "BONUS888: The Best Online Casino in Malaysia 2024",
-		"2": "BONUS888",
-		"3": "offers the most premium gaming experience in any online casino. BONUS888 Casino is a fully licensed online betting platform. Join ",
-		"4": "BONUS888 today",
-		"5": "to enjoy our certified security systems, high speed payment support, and exclusive casino bonuses."
+	"MB8": {
+		"title": "Malaysia’s Most Trusted Online Slot Casino — MB8",
+		"1": "For years, ",
+		"2": "MB8 ",
+		"3": "has stood as Malaysia’s first and only choice when meeting their online betting needs. Not just for our diverse selection of ",
+		"4": "MB8 Slot ",
+		"5": "Games, but also for our renowned safety and security.",
+		"6": "Don’t just take our word — sign up for our active community of seasoned players and see how well ",
+		"7": "MB8 Malaysia Trusted Online ",
+		"8": "Casino does at making online gaming fun and lucrative for everyone. "
 	},
-	"OnlineCasinoGames": {
-		"title": "BONUS888 Best Online Casino Games",
-		"1": "BONUS888 Online ",
-		"2": "carries the widest games selection of any casino platform. Veteran or amateur, you’ll find only the best betting odds when it comes to our online casino Malaysia."
+	"memberToday": {
+		"title": "Be a MB8 Member Today!",
+		"1": "Just follow these simple steps and you’ll have your own ",
+		"2": "MB8 slot login ",
+		"3": "account in no time. ",
+		"4": "Head over to the ",
+		"5": "MB8 Casino ",
+		"6": "homepage and click on \"Register\".",
+		"7": "On the registration page, enter your personal information and verify your account with a phone number. ",
+		"8": "Now that you have a verified account, get our mobile casino app through the ",
+		"9": "MB8 APK Download ",
+		"10": "page.",
+		"11": "Run the installation file on any mobile device of your choice. ",
+		"12": "With the app installed, go to the ",
+		"13": "MB8 login ",
+		"14": "page and enter your account information.",
+		"15": "Play all the best games ",
+		"16": "MB8 Online ",
+		"17": "has to offer!",
+		"18": "Just enter ",
+		"19": "MB8 Casino login ",
+		"20": "and make your first deposit today. Then, you’ll be all set to play the best online betting games from anywhere you want."
 	},
-	"LiveCasinoGames": {
-		"title": "Live Casino Games",
-		"1": "BONUS888 Online Live Casino offers all the classic live dealer table games like online Baccarat, online Blackjack, and even online Roulette wheels. Meet our friendly dealers on Playtech Gaming, Pragmatic Play, and many other live casino providers. "
+	"payandplay": {
+		"title": "Pay and Play Instantly",
+		"1": "Take your pick of ",
+		"2": "MB8 Ewallet login ",
+		"3": "options — Grabpay, Touch N’ Go, and even a few cryptocurrency wallets. We have every convenience you’ll need when depositing funds and withdrawing winnings after playing our best online games."
 	},
-	"OnlineCasinoSlots": {
-		"title": "Online Casino Slots",
-		"1": "Play all the best high RTP online slot games on ",
-		"2": "BONUS888 Slot. ",
-		"3": "We have all the best providers like 918Kiss and Luck365 to play real money slots. "
-	},
-	"SportsBetting": {
-		"title": "Sports Betting",
-		"1": "BONUS888 Sports has all the best sports betting odds. Pick between providers like OBET33, IBCBet, or even E1Sport — a top tier esports betting site in Malaysia with ",
-		"2": "Bonus888 login.",
-		"3": " "
-	},
-	"OnlineLottery": {
-		"title": "Online Lottery",
-		"1": "BONUS888 register to watch live 4D lottery results for Magnum 4D, SportsTOTO, and DaMaCai and other lotteries. With our unique provider, EKOR lottery, you can buy winning tickets anywhere at any time. "
-	},
-	"OurSupportedPaymentMethods": {
-		"title": "Our Supported Payment Methods",
-		"1": "Pick between any of our online payment options. ",
-		"2": "BONUS888 ",
-		"3": "Casino has no withdrawal limit, so enjoy fast, safe, and instant transfers for all your winnings."
-	},
-	"BankTransfer": {
-		"title": "Bank Transfer",
-		"1": "Pick from brands like Maybank, CIMB Bank, Hong Leong Bank and many others for safe and secure deposits and withdrawals. "
-	},
-	"EwalletTransfer": {
-		"title": "Ewallet Transfer",
-		"1": "BONUS888 Ewalet ",
-		"2": "Casino supports direct deposit and withdrawals for GrabPay, Touch’n Go, and a number of other ewallets for your convenience."
-	},
-	"JoinBONUS888Today": {
-		"title": "Join BONUS888.Today!",
-		"1": "Just follow a few simple steps to start playing the best real money casino games we have to offer."
-	},
-	"BONUS888RegisterOnline": {
-		"title": "BONUS888 Register Online",
-		"1": "Visit the ",
-		"2": "Official BONUS888 Link Baru.",
-		"3": "Click on the \"Register\" button ",
-		"4": "Enter your correct personal information and phone number.",
-		"5": "Verify your account with an OTP. ",
-		"6": "You now have a verified BONUS888 Online Casino account!"
-	},
-	"BONUS888LoginCasinoAccount": {
-		"title": "BONUS888 Login Casino Account",
-		"1": "On your mobile device, go to the Official Bonus888 Website.",
-		"2": "On the right, click on \"Download App\" to download the ",
-		"3": "BONUS888 APK.",
-		"4": "Run the APK program to download the Mobile App.",
-		"5": "Enter the casino app and login with your account and password. ",
-		"6": "Claim your first casino bonus and enjoy the BONUS888 Casino experience."
-	},
-	"BONUS888OnlineCasinoBonus": {
-		"title": "BONUS888 Online Casino Bonus",
-		"1": "BONUS888 free credit ",
-		"2": "bonuses help players get free spins and bets for even more chances to win. "
-	},
-	"WELCOMEBONUS": {
-		"title": "50% WELCOME BONUS",
-		"1": "Get a 50% Match Bonus for your very first deposit as a new member."
-	},
-	"UNLIMITEDBONUS": {
-		"title": "10% UNLIMITED BONUS",
-		"1": "Get an extra 10% Match Bonus for every deposit you make. "
-	},
-	"DEPOSITBONUS": {
-		"title": "DOWNLINE DEPOSIT BONUS",
-		"1": "Get RM10 Free Credit for every friend that ",
-		"2": "link free credit BONUS888.",
-		"4": " ",
-		"3": "BONUS888 is always looking to give our players more games, more features, and more bonuses. Just sign up today and claim your online casino bonuses!"
+	"BestSlotProviders": {
+		"title": "The Best Slot Providers in Malaysia",
+		"1": "Meet our world renowned E-gaming providers. Each one famous for their high quality casino games with the highest win rates across the industry. ",
+		"2": "RICH Gaming: ",
+		"3": "True to its name, this game provider brings all the best real money slot games to ",
+		"4": "MB8 Casino Online.",
+		"5": "BTGaming: ",
+		"6": "Determined to make the next blockbuster game title, this slot game provider cuts no corners when tailoring the best experience for online slot enthusiasts. ",
+		"7": "JILI Slot: ",
+		"8": "Short of everyone has heard of them. No one comes close to JILI’s unique art style and animations when producing high paying online slot machines. ",
+		"9": "There’s always more to come on ",
+		"10": "MB8 Malaysia ",
+		"11": " — more providers, more games, and more for you to win. Don’t miss out on these opportunities to win big when you sign up with us! Make your first deposit now and you could even cash in the best free spins and free credit slot bonuses today. "
 	},
 	"Footer": {
 		"title": "Learn more about our Major partner:",
-		"1": "Atas Sign Up",
-		"2": " Atas Casino ",
-		"3": "Your ultimate destination for thrilling casino action and big wins! Experience a wide range of games, secure betting, and exclusive bonuses. Sign up now to AtasCasinoBet and elevate your gaming experience to new heights!",
-		"4": "Atas Official Casino",
-		"5": "Discover Atas Kasino, where luxury meets top-tier gaming. Enjoy a premium casino experience with a vast selection of games, secure transactions, and exclusive rewards. Join Atas Kasino today for unparalleled entertainment and big wins!"
+		"1": "Atas Download APK",
+		"2": "Download the Atas APK to access premium casino games and secure transactions on your mobile device. Get started now for a seamless gaming experience!",
+		"3": "Atas Register Account",
+		"4": "Register your Atas account today and unlock exclusive rewards, a wide game selection, and secure gaming. Join now for top-tier entertainment!",
+		"5": "Registered TradeMark : ",
+		"6": " MILLION88 is a registered trademark of Moon Technologie, licensed by the Government of Curacao under Master License #1168/JAZ."
 	},
 	"AnnounceBarWords": {
-		"1": "Million88 The Biggest And Most Trusted Gambling Site Available In Malaysia, Enjoy Highly Welcome & Promotion Bonus, Enjoy Live, Slots, Sportsbooks. Trusted Platform With A Comprehensive Game Selection, Best Security Standards And Highly Responds live Customer Service. Access Your Account, And Start Playing Your Favorite Games, Enjoy A Seamless Gaming Experience And Exciting Rewards."
+		"1": "Million88 – Malaysia's largest and No.1 trusted gambling site! Enjoy big welcome bonuses, live games, slots, and sportsbooks. Experience top-tier security, a wide game selection, and responsive live customer support. Access your account, play your favorite games, and enjoy a smooth gaming experience with exciting rewards."
 	},
 	"button": {
 		"login": "LOGIN",
