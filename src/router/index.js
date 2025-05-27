@@ -1,13 +1,18 @@
 // src/router/index.js
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '../views/Home.vue'; // Example component
-
+import NotFound from '@/views/404.vue';
 
 const routes = [
 	{
 		path: '/',
 		name: 'Home',
 		component: Home
+	},
+	{
+		path: '/:pathMatch(.*)*',
+		name: 'NotFound',
+		component: NotFound
 	}
 
 	// Add more routes as needed
