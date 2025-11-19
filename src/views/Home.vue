@@ -79,7 +79,7 @@
 							</svg></a>
 
 						<!--whatsapp icon-->
-						<a href="https://rebrand.ly/ATASxSEO2P" rel="nofollow" target="_blank">
+						<a href="https://tinyurl.com/ATASxSEO" rel="nofollow" target="_blank">
 							<span class="chaty-icon channel-icon-Whatsapp">
 								<span class="chaty-svg">
 									<svg width="39" height="39" viewBox="0 0 39 39" fill="none"
